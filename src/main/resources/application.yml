@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+aws:
+  s3:
+    region: sa-east-1
+    accessKeyId: AKIAJOTJQJY65B4CSA2A
+    secretAccessKey: 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
+    bucket: notarial-bucket
